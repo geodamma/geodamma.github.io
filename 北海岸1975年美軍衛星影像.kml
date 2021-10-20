@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<GroundOverlay>
+	<name>北海岸1975年美軍衛星影像</name>
+	<Icon>
+		<href>https://github.com/geodamma/geodamma.github.io/blob/master/%E5%8C%97%E6%B5%B7%E5%B2%B8_1975.jpg?raw=true</href>
+		<viewBoundScale>0.75</viewBoundScale>
+	</Icon>
+	<gx:LatLonQuad>
+		<coordinates>
+			118.3009585769252,24.48310326813864,0 118.3498795393639,24.45398065485726,0 118.3585040717266,24.4660141141956,0 118.3096080757746,24.49516180094633,0 
+		</coordinates>
+	</gx:LatLonQuad>
+</GroundOverlay>
+</kml>
